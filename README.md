@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nikita Sharma 🎀</h1>
-<h3 align="center">Aspiring Machine Learning Engineer & Software Developer from India 🇮🇳</h3>
+<h1 align="center">Hi , I'm Nikita Sharma 🎀</h1>
+<h3 align="center">AI/ML Intern | Aspiring Machine Learning Engineer from India 🇮🇳</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nikita-sharma-158545312/" target="_blank">
@@ -12,28 +12,63 @@
 
 ---
 
-### 👩‍💻 About Me
-- 🎓 Computer Science student & aspiring **ML Engineer**
-- 🧠 Learning **Machine Learning, Python & Data Science**
-- 💻 Exploring **Full-Stack Development**
-- 🎯 Goal: Get hired in a **top tech / product-based company**
-- 🌱 Believe in **consistent daily improvement**
+### 👩‍💻 Profile Summary
+AI/ML intern with strong foundations in **Python, Machine Learning, and Data Analysis**, supported by hands-on projects in **NLP and AI-powered applications**. Actively seeking an **entry-level AI/ML Engineer** role to apply practical skills and grow in a professional environment.
 
 ---
 
-### 🛠 Languages & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,mongodb,git,github,linux" />
-</p>
+### 🎓 Education
+- **B.Sc. Computer Science** — Panjab University  
+- **Class 12 (CBSE)** — 71%  
+- **Class 10 (PSEB)** — 85%
 
 ---
 
-### 📌 Featured Projects
-🔹 *Machine Learning projects (classification, prediction)*  
-🔹 *Web applications using MERN / Java*  
-🔹 *Internship & academic projects*
+### 🧠 Training
+**Vprotech Digital** *(Sep 2025 – Present)*  
+- Professional training in **Python, AI/ML, and Data Analytics**
+- Working on hands-on, industry-oriented projects
+- Strengthening problem-solving and practical ML skills
 
-➡️ *(Pinned repositories below 👇)*
+---
+
+### 🛠 Technical Skills
+
+**Programming & ML**
+- Python, Machine Learning, Deep Learning
+- NLP (TF-IDF, Text Classification)
+- SQL
+
+**Web & Tools**
+- HTML, CSS, APIs, Streamlit
+- Power BI, OpenCV, Docker
+
+**Tools & Platforms**
+- VS Code, Jupyter Notebook, Google Colab, PyCharm
+- Git & GitHub
+
+---
+
+### 🚀 Projects
+
+#### 📰 Fake News Classification  
+🔗 https://fake-news-dumcycbwz9i7xvawtmwqpv.streamlit.app/  
+- Implemented NLP-based text classification using **TF-IDF**
+- Trained and compared **Logistic Regression, Naive Bayes, and SVC**
+- Built a system to classify **Fake vs Real** news articles
+
+#### 🏥 Health Care Assistant  
+🔗 https://health-care-chatbot-nhmwzelzfbvv824jtfbhxt.streamlit.app/  
+- Built an interactive **AI-powered health assistant**
+- Used **Python, Streamlit, and Google Gemini API**
+- Implemented prompt engineering for controlled, focused responses
+- Designed chat history, sidebar conversations, and custom UI
+
+---
+
+### 🏆 Achievements
+- 🥈 **Second Prize** — Inter-State IT Fest (Department of Computer Application)
+- 📊 Ranked **1658 / 8,936 (Top ~20%)** in a Kaggle regression competition using **CatBoost**
 
 ---
 
@@ -48,4 +83,4 @@
 
 ---
 
-⭐ **Open to internships, projects, and learning opportunities**
+⭐ **Open to AI/ML internships, entry-level roles, and learning opportunities**

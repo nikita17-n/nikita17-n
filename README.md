@@ -20,7 +20,12 @@ AI/ML intern with strong foundations in **Python, Machine Learning, and Data Ana
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=jupyter,pycharm,vscode,linux,streamlit" />
+</p><p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-%23ff69b4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLP-%234fc3f7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-%23ba68c8?style=for-the-badge"/>
 </p>
+
 
 ### 📊 GitHub Stats
 <p>

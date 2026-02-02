@@ -27,3 +27,6 @@ AI/ML intern with strong foundations in **Python, Machine Learning, and Data Ana
 ---
 
 ⭐ **Open to AI/ML internships, entry-level roles, and learning opportunities**
+
+![snake animation](https://raw.githubusercontent.com/nikita17-n/nikita17-n/output/github-contribution-grid-snake-dark.svg)
+

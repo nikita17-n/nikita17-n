@@ -1,4 +1,4 @@
-name: Generate Pacman Contribution Graph
+name: Generate Pacman
 
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write   # ✅ VERY IMPORTANT
+  contents: write
 
 jobs:
   build:
@@ -15,12 +15,12 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Generate Pacman
+      - name: Generate Snake (Pacman style)
         uses: Platane/snk@v3
         with:
           github_user_name: nikita17-n
           outputs: |
-            dist/pacman.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3

@@ -5,21 +5,27 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write   # ✅ VERY IMPORTANT
+
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v3
 
       - name: Generate Pacman
-        uses: abozanona/pacman-contribution-graph@main
+        uses: Platane/snk@v3
         with:
           github_user_name: nikita17-n
+          outputs: |
+            dist/pacman.svg?palette=github-dark
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
-          build_dir: .
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

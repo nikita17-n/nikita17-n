@@ -40,4 +40,10 @@ AI/ML intern with strong foundations in **Python, Machine Learning, and Data Ana
 
 ⭐ **Open to AI/ML internships, entry-level roles, and learning opportunities**
 
-![Pacman](https://raw.githubusercontent.com/nikita17-n/nikita17-n/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
+
+_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_

@@ -37,9 +37,7 @@ AI/ML intern with strong foundations in **Python, Machine Learning, and Data Ana
 </p>
 
 ---
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
-</p>
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300"/>
 
 ⭐ **Open to AI/ML internships, entry-level roles, and learning opportunities**
 

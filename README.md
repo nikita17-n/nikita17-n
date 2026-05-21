@@ -66,17 +66,17 @@
 
 ---
 
-# 🚀 Animated Spaceship Section
+# 🛸 SPACE MISSION
 
 <div align="center">
 
-<img src="https://media.tenor.com/XM7T7gZR5hYAAAAi/pixel-jeff-space.gif" width="250px">
+<img src="https://media.tenor.com/XM7T7gZR5hYAAAAi/pixel-jeff-space.gif" width="150">
 
-### ✨ Exploring the universe one commit at a time ✨
+<br>
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
 
 </div>
-
-<img align="center" width="100%" src="gh-space-shooter.webp" />
 
 ---
 # 🛸 OPTIONAL UPGRADES

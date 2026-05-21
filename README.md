@@ -76,6 +76,8 @@
 
 </div>
 
+<img align="center" width="100%" src="gh-space-shooter.webp" />
+
 ---
 # 🛸 OPTIONAL UPGRADES
 

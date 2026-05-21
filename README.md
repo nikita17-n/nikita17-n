@@ -4,7 +4,7 @@
 
 # 🌌 Hello, I'm Nikita Sharma 👩‍🚀
 
-### AI/ML Engineer • Gen AI Developer • Open Source Explorer
+### AI/ML Engineer • Open Source Explorer
 
 <p align="center">
   <a href="https://linkedin.com">

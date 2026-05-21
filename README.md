@@ -66,11 +66,11 @@
 
 ---
 
-<div align="center">
-
-<img src="https://media.tenor.com/XM7T7gZR5hYAAAAi/pixel-jeff-space.gif" width="180">
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
 ---
 # 🛸 OPTIONAL UPGRADES
 

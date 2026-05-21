@@ -76,20 +76,6 @@
 
 </div>
 
-# 🚀 Contribution Galaxy
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikita17-n&custom_title=GALAXY%20ACTIVITY&bg_color=0d1117&color=bb00ff&line=ff00ff&point=ffffff&area=true&hide_border=true" width="100%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://media.tenor.com/XM7T7gZR5hYAAAAi/pixel-jeff-space.gif" width="180">
-
-</div>
-
 ---
 # 🛸 OPTIONAL UPGRADES
 

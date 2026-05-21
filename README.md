@@ -40,8 +40,6 @@
 
 <br><br>
 
-<img src="https://media.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif" width="900px">
-
 </div>
 
 ### 🌠 Mission Stats

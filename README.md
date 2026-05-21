@@ -24,17 +24,27 @@
 
 # 🛸 Tech Stack
 
+# 🛸 Tech Arsenal
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,git" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,git,vscode,pycharm,linux" height="70"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Machine%20Learning-8A2BE2?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine_Learning-%23BB00FF.svg?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Deep%20Learning-DA70D6?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Deep_Learning-%23FF00FF.svg?style=for-the-badge&logo=pytorch&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/OpenCV-9400D3?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-%238A2BE2.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NLP-%23C71585.svg?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL-%239400D3.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Streamlit-%23FF4B91.svg?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Jupyter-%23DA70D6.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
 </div>
 

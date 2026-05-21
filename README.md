@@ -12,7 +12,7 @@
 
 ---
 
-### 👩‍💻 Profile Summary
+### Profile Summary
 AI/ML intern with strong foundations in **Python, Machine Learning, and Data Analysis**, supported by hands-on projects in **NLP and AI-powered applications**. Actively seeking an **entry-level AI/ML Engineer** role to apply practical skills and grow in a professional environment.
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,sql,docker,opencv,git,github" />

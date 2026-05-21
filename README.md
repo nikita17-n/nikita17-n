@@ -76,14 +76,6 @@
 
 </div>
 
-# 🌌 Contribution Galaxy
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikita17-n&theme=tokyo-night&bg_color=0d1117&hide_border=true&line=bb00ff&point=ff00ff&area=true" width="100%"/>
-
-</div>
-
 ---
 # 🛸 OPTIONAL UPGRADES
 

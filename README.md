@@ -23,9 +23,6 @@
 ---
 
 # 🛸 Tech Stack
-
-# 🛸 Tech Arsenal
-
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,c,cpp,git,vscode,pycharm,linux" height="70"/>

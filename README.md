@@ -66,18 +66,11 @@
 
 ---
 
-# 🛸 SPACE MISSION
-
 <div align="center">
 
-<img src="https://media.tenor.com/XM7T7gZR5hYAAAAi/pixel-jeff-space.gif" width="150">
-
-<br>
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+<img src="https://media.tenor.com/XM7T7gZR5hYAAAAi/pixel-jeff-space.gif" width="180">
 
 </div>
-
 ---
 # 🛸 OPTIONAL UPGRADES
 

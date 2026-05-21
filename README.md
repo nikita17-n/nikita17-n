@@ -26,7 +26,15 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,tensorflow,pytorch,docker,git,mysql,flask,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,git" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-8A2BE2?style=for-the-badge&logo=tensorflow&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Deep%20Learning-DA70D6?style=for-the-badge&logo=pytorch&logoColor=white" />
+
+<img src="https://img.shields.io/badge/OpenCV-9400D3?style=for-the-badge&logo=opencv&logoColor=white" />
 
 </div>
 

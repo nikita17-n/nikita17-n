@@ -80,3 +80,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
 ---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjR0MXVxMHB5b2h1dGZtbTRwb3JqYmE3aHk5dHJvN3Q4Z2VjcDZ4ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYt5jPR6QX5pnqM/giphy.gif" width="500"/>
+</p>

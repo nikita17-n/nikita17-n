@@ -61,14 +61,15 @@
 
 # 📊 GitHub Stats
 
+# 📊 GitHub Stats
+
 <div align="center">
 
-<img height="180em" src="[https://github-readme-stats.vercel.app/api?username=nikita17-n&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117](https://camo.githubusercontent.com/d8766a698c37c6f840f6ff92896051c264cb2a90adb6a9211cecb6db852c09a0/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d3f757365723d616e67656c2d30323130266c6f63616c653d656e266d6f64653d6461696c79267468656d653d64726163756c6126686964655f626f726465723d66616c736526626f726465725f7261646975733d35266f726465723d3326763d34)" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikita17-n&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
 
 </div>
-
 ---
 
 <picture>

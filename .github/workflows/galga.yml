@@ -1,31 +1,32 @@
 name: Generate Galaga Contribution Graph
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+workflow_dispatch:
 
 permissions:
-  contents: write
+contents: write
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
+build:
+runs-on: ubuntu-latest
 
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
+```
+steps:
+  - name: Checkout
+    uses: actions/checkout@v4
 
-      - name: Generate 3D Contribution Graph
-        uses: yoshi389111/github-profile-3d-contrib@latest
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: nikita17-n
+  - name: Generate Graph
+    uses: yoshi389111/github-profile-3d-contrib@0.7.1
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      USERNAME: nikita17-n
 
-      - name: Deploy to output branch
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: output
-          publish_dir: ./dist
-          force_orphan: true
+  - name: Show Generated Files
+    run: |
+      pwd
+      find . -type f | sort
+      ls -la
+      ls -la dist || true
+      ls -la output || true
+      ls -la svg || true
+```

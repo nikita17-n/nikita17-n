@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Nikita17-N banner" />
+<img src="banner.svg" width="100%" alt="Nikita17-N banner" />
 
 <p>
   🕷️ &nbsp;&nbsp;&nbsp; <code>&lt;/&gt;</code> &nbsp;&nbsp;&nbsp; 🕸️

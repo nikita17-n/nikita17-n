@@ -96,7 +96,7 @@ _More contributions, more impact._
 
 ### 🕷️ Developer Workflow
 
-<img src="assets/workflow.svg" width="100%" alt="Developer workflow"/>
+<img src="workflow.svg" width="100%" alt="Developer workflow"/>
 
 <div align="center">
 

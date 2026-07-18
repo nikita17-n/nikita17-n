@@ -1,6 +1,6 @@
 -------------------------------------------------------------------------------------------------------------
 
-<img src="Spiderman Wallpaper.jpe">
+<img src="banner_animated.svg">
 
 #  < Hello, I'm Nikita Sharma />
 

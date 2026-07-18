@@ -175,7 +175,7 @@
     <line x1="60" y1="140" x2="130" y2="130" stroke="#ff1e3c" stroke-width="1.3" opacity="0.4"/>
   </g>
 </svg>
-<!-- <img src="diagram.svg"> -->
+<img src="diagram.svg">
 
 #  < Hello, I'm Nikita Sharma />
 

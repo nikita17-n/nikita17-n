@@ -1,7 +1,7 @@
 -------------------------------------------------------------------------------------------------------------
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:120024,25:6a0dad,50:8a2be2,75:ff00ff,100:120024&text=Nikita%20Sharma&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20•%20Open%20Source%20Explorer&descAlignY=55" width="100%" />
+<img src="banner.svg">
 
 #  < Hello, I'm Nikita Sharma />
 

@@ -1,7 +1,7 @@
 -------------------------------------------------------------------------------------------------------------
 <div align="center">
 
-<img src="banner.svg">
+<img src="diagram.svg">
 
 #  < Hello, I'm Nikita Sharma />
 

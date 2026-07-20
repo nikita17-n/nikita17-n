@@ -87,5 +87,7 @@
   <source
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/nikita17-n/nikita17-n/output/galaga-contribution-graph.svg">
-</source>
-<img src="Spidy.gif">
+</picture>
+<p align="center">
+  <img src="Spidy.gif" width="600" alt="Spider-Man">
+</p>

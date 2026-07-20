@@ -113,16 +113,6 @@ Power Source:
 
 ---
 
-# 🏆 Multiverse Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nikita17-n&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
 > **"With great code comes great responsibility."** 🕷️
 
 ### 🌠 Mission Stats

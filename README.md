@@ -4,9 +4,9 @@
 
 <div align="center">
 
-# 🕷️ Friendly Neighborhood AI Engineer
+# 🕸️ AI/ML Engineer 🕸️
 
-### 🕸️ Swinging Through Code • Building Intelligent Systems • Saving Bugs One Commit at a Time
+### 🕸️ Swinging Through Code • Building Intelligent Systems • Saving Bugs One Commit at a Time 🕸️
 
 <br>
 
@@ -18,7 +18,7 @@
 
 ---
 
-## 🕸️ Connect Across the Spider-Verse
+## 🕸️ Connect Across the Spider-Verse 🕸️
 
 <p align="center">
 

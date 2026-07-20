@@ -1,15 +1,15 @@
 # 🕷️ Friendly Neighborhood AI Engineer
 
-::: {align="center"}
-`<img src="banner_animated.svg" width="100%" alt="Spider-Verse Banner"/>`{=html}
+<div align="center">
+<img src="banner_animated.svg" width="100%" alt="Spider-Verse Banner"/>
 
-`<img src="Spidy.gif" width="800" alt="Spider-Man"/>`{=html}
+<img src="Spidy.gif" width="800" alt="Spider-Man"/>
 
-`<br>`{=html}
+<br>
 
-`<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=900&color=E62429&lines=AI+%7C+Machine+Learning+Engineer;Deep+Learning+%7C+NLP;LLMs+%7C+RAG+%7C+LangChain;LangGraph+%7C+Agentic+AI+%7C+n8n;Building+Real-World+AI+Applications"/>`{=html}
-:::
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=900&color=E62429&lines=AI+%7C+Machine+Learning+Engineer;Deep+Learning+%7C+NLP;LLMs+%7C+RAG+%7C+LangChain;LangGraph+%7C+Agentic+AI+%7C+n8n;Building+Real-World+AI+Applications"/>
 
+</div>
 ------------------------------------------------------------------------
 
 ## 🕸️ About Me

@@ -108,7 +108,7 @@ Power Source:
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikita17-n&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nikita17-n&show_icons=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&border_color=FF0000&hide_border=false"/>
 
 </div>
 

@@ -45,7 +45,7 @@
 # 🕷️ Spider Suit Arsenal
 
 <div align="left">
-<div align="left"><img src="69102175529154829.jpe">
+<div align="left"><img src="69102175529154829.jpe" width= 200 height= 150>
 </div>
 <img src="https://skillicons.dev/icons?i=python,c,cpp,git,github,vscode,pycharm,linux,MySql,docker" height="70"/>
 

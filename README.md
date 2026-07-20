@@ -35,21 +35,23 @@ projects, and intelligent automation.
 
 ## 🌐 Connect Across the Spider-Verse
 
-::: {align="center"}
-`<a href="https://linkedin.com">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-E62429?style=for-the-badge&logo=linkedin&logoColor=white"/>`{=html}`</a>`{=html}
-`<a href="https://instagram.com">`{=html}`<img src="https://img.shields.io/badge/Instagram-B11313?style=for-the-badge&logo=instagram&logoColor=white"/>`{=html}`</a>`{=html}
-`<a href="mailto:yourmail@gmail.com">`{=html}`<img src="https://img.shields.io/badge/Gmail-8B0000?style=for-the-badge&logo=gmail&logoColor=white"/>`{=html}`</a>`{=html}
-:::
+<div align="center">
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-E62429?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com"><img src="https://img.shields.io/badge/Instagram-B11313?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-8B0000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</div>
+
 
 ------------------------------------------------------------------------
 
 # 🕷️ Spider Suit Arsenal
 
-::: {align="center"}
-`<img src="https://skillicons.dev/icons?i=python,c,cpp,git,github,vscode,pycharm,linux,docker,tensorflow,pytorch"/>`{=html}
-:::
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,c,cpp,git,github,vscode,pycharm,linux,docker,tensorflow,pytorch"/>
+</div>
 
-::: {align="center"}
+<div align="center">
+
 ![ML](https://img.shields.io/badge/Machine_Learning-E62429?style=for-the-badge)
 ![DL](https://img.shields.io/badge/Deep_Learning-B11313?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/NLP-E62429?style=for-the-badge)
@@ -58,57 +60,60 @@ projects, and intelligent automation.
 ![LangChain](https://img.shields.io/badge/LangChain-B11313?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-8B0000?style=for-the-badge)
 ![n8n](https://img.shields.io/badge/n8n-E62429?style=for-the-badge)
-:::
+</div>
 
 ------------------------------------------------------------------------
 
 # 📊 Hero Stats
 
-::: {align="center"}
-`<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nikita17-n&show_icons=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&border_color=FF0000"/>`{=html}
+<div align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nikita17-n&show_icons=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&border_color=FF0000"/>
 
-`<img width="49%" src="https://streak-stats.demolab.com?user=nikita17-n&theme=transparent&hide_border=true&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideNums=FFFFFF&currStreakNum=FF0000&stroke=FF0000"/>`{=html}
-:::
+<img width="49%" src="https://streak-stats.demolab.com?user=nikita17-n&theme=transparent&hide_border=true&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideNums=FFFFFF&currStreakNum=FF0000&stroke=FF0000"/>
+</div>
+
 
 ------------------------------------------------------------------------
 
 # 🔥 Contribution Activity
 
-::: {align="center"}
-`<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=nikita17-n&bg_color=0D1117&color=FFFFFF&line=FF0000&point=FF3B3B&area=true&area_color=660000&title_color=FF0000&hide_border=true"/>`{=html}
-:::
+<div align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=nikita17-n&bg_color=0D1117&color=FFFFFF&line=FF0000&point=FF3B3B&area=true&area_color=660000&title_color=FF0000&hide_border=true"/>
+</div>
 
 ------------------------------------------------------------------------
 
 # 🏆 Hall of Heroes
 
-::: {align="center"}
-`<img src="https://github-profile-trophy.vercel.app/?username=nikita17-n&theme=algolia&no-frame=true&row=1&column=7"/>`{=html}
-:::
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=nikita17-n&theme=algolia&no-frame=true&row=1&column=7"/>
+</div>
 
 ------------------------------------------------------------------------
 
 # 🕹️ Arcade Missions
 
-::: {align="center"}
+<div align="center">
 ## Pac-Man
 
-`<picture>`{=html}
-`<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikita17-n/nikita17-n/output/pacman-contribution-graph-dark.svg">`{=html}
-`<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikita17-n/nikita17-n/output/pacman-contribution-graph.svg">`{=html}
-`<img src="https://raw.githubusercontent.com/nikita17-n/nikita17-n/output/pacman-contribution-graph.svg">`{=html}
-`</picture>`{=html}
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikita17-n/nikita17-n/output/pacman-contribution-graph-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikita17-n/nikita17-n/output/pacman-contribution-graph.svg">
+<img src="https://raw.githubusercontent.com/nikita17-n/nikita17-n/output/pacman-contribution-graph.svg">
+</picture>
 
-`<br>`{=html}`<br>`{=html}
+<br><br>
 
 ## Galaga
 
-`<picture>`{=html}
-`<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikita17-n/nikita17-n/output/galaga-contribution-graph-dark.svg">`{=html}
-`<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikita17-n/nikita17-n/output/galaga-contribution-graph.svg">`{=html}
-`<img src="https://raw.githubusercontent.com/nikita17-n/nikita17-n/output/galaga-contribution-graph.svg">`{=html}
-`</picture>`{=html}
-:::
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikita17-n/nikita17-n/output/galaga-contribution-graph-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikita17-n/nikita17-n/output/galaga-contribution-graph.svg">
+<img src="https://raw.githubusercontent.com/nikita17-n/nikita17-n/output/galaga-contribution-graph.svg">
+</picture>
+</div>
+
 
 ------------------------------------------------------------------------
 
@@ -124,11 +129,11 @@ projects, and intelligent automation.
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
+<div align="center">
 ### 🕷️ *"Every great AI project starts with a single commit."*
 
-`<img src="workflow.svg" width="100%"/>`{=html}
-:::
+<img src="workflow.svg" width="100%"/>
+</div>
 
 
 

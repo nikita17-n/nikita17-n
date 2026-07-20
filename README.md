@@ -28,7 +28,7 @@
 
 ---
 
-# 🕷️ Spider Suit Arsenal
+# 🕸️ Tech Stack 🕸️
 
 <div align="center">
 <img src="69102175529154829.jpe" width=900 height=150>
@@ -83,7 +83,7 @@ Power Source:
 
 ---
 
-# 🕸️ Hero Stats
+# 🕸️ Hero Stats 🕸️
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=nikita17-n&theme=tokyonight&hide_border=true&ring=FF0000&fire=FF1A1A&currStreakLabel=FF0000&sideNums=FF3B3B&currStreakNum=FF0000&sideLabels=FFFFFF&dates=AAAAAA&stroke=FF0000"/>

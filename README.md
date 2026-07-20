@@ -102,12 +102,6 @@ Power Source:
 
 # 🕸️ Hero Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nikita17-n&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
 <img src="https://streak-stats.demolab.com?user=nikita17-n&theme=tokyonight&hide_border=true"/>
 
 <br><br>

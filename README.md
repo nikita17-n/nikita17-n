@@ -1,3 +1,154 @@
+# 🕷️ Friendly Neighborhood AI Engineer
+
+::: {align="center"}
+`<img src="banner_animated.svg" width="100%" alt="Spider-Verse Banner"/>`{=html}
+
+`<img src="Spidy.gif" width="800" alt="Spider-Man"/>`{=html}
+
+`<br>`{=html}
+
+`<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=900&color=E62429&lines=AI+%7C+Machine+Learning+Engineer;Deep+Learning+%7C+NLP;LLMs+%7C+RAG+%7C+LangChain;LangGraph+%7C+Agentic+AI+%7C+n8n;Building+Real-World+AI+Applications"/>`{=html}
+:::
+
+------------------------------------------------------------------------
+
+## 🕸️ About Me
+
+> "With great code comes great responsibility."
+
+I'm an AI/ML enthusiast passionate about building production-ready AI
+applications, RAG systems, LLM-powered assistants, computer vision
+projects, and intelligent automation.
+
+-   🤖 Machine Learning
+-   🧠 Deep Learning
+-   💬 NLP
+-   🕸️ LLMs
+-   ⚡ RAG
+-   🔗 LangChain
+-   🌐 LangGraph
+-   🤖 Agentic AI
+-   ⚙️ n8n
+-   🐍 Python
+
+------------------------------------------------------------------------
+
+## 🌐 Connect Across the Spider-Verse
+
+::: {align="center"}
+`<a href="https://linkedin.com">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-E62429?style=for-the-badge&logo=linkedin&logoColor=white"/>`{=html}`</a>`{=html}
+`<a href="https://instagram.com">`{=html}`<img src="https://img.shields.io/badge/Instagram-B11313?style=for-the-badge&logo=instagram&logoColor=white"/>`{=html}`</a>`{=html}
+`<a href="mailto:yourmail@gmail.com">`{=html}`<img src="https://img.shields.io/badge/Gmail-8B0000?style=for-the-badge&logo=gmail&logoColor=white"/>`{=html}`</a>`{=html}
+:::
+
+------------------------------------------------------------------------
+
+# 🕷️ Spider Suit Arsenal
+
+::: {align="center"}
+`<img src="https://skillicons.dev/icons?i=python,c,cpp,git,github,vscode,pycharm,linux,docker,tensorflow,pytorch"/>`{=html}
+:::
+
+::: {align="center"}
+![ML](https://img.shields.io/badge/Machine_Learning-E62429?style=for-the-badge)
+![DL](https://img.shields.io/badge/Deep_Learning-B11313?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-E62429?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-8B0000?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-E62429?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-B11313?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-8B0000?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-E62429?style=for-the-badge)
+:::
+
+------------------------------------------------------------------------
+
+# 📊 Hero Stats
+
+::: {align="center"}
+`<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nikita17-n&show_icons=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&border_color=FF0000"/>`{=html}
+
+`<img width="49%" src="https://streak-stats.demolab.com?user=nikita17-n&theme=transparent&hide_border=true&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideNums=FFFFFF&currStreakNum=FF0000&stroke=FF0000"/>`{=html}
+:::
+
+------------------------------------------------------------------------
+
+# 🔥 Contribution Activity
+
+::: {align="center"}
+`<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=nikita17-n&bg_color=0D1117&color=FFFFFF&line=FF0000&point=FF3B3B&area=true&area_color=660000&title_color=FF0000&hide_border=true"/>`{=html}
+:::
+
+------------------------------------------------------------------------
+
+# 🏆 Hall of Heroes
+
+::: {align="center"}
+`<img src="https://github-profile-trophy.vercel.app/?username=nikita17-n&theme=algolia&no-frame=true&row=1&column=7"/>`{=html}
+:::
+
+------------------------------------------------------------------------
+
+# 🕹️ Arcade Missions
+
+::: {align="center"}
+## Pac-Man
+
+`<picture>`{=html}
+`<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikita17-n/nikita17-n/output/pacman-contribution-graph-dark.svg">`{=html}
+`<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikita17-n/nikita17-n/output/pacman-contribution-graph.svg">`{=html}
+`<img src="https://raw.githubusercontent.com/nikita17-n/nikita17-n/output/pacman-contribution-graph.svg">`{=html}
+`</picture>`{=html}
+
+`<br>`{=html}`<br>`{=html}
+
+## Galaga
+
+`<picture>`{=html}
+`<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikita17-n/nikita17-n/output/galaga-contribution-graph-dark.svg">`{=html}
+`<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikita17-n/nikita17-n/output/galaga-contribution-graph.svg">`{=html}
+`<img src="https://raw.githubusercontent.com/nikita17-n/nikita17-n/output/galaga-contribution-graph.svg">`{=html}
+`</picture>`{=html}
+:::
+
+------------------------------------------------------------------------
+
+# 🚀 Featured Projects
+
+  Project                                Tech
+  -------------------------------------- ------------------------
+  🤖 Enterprise AI Knowledge Assistant   RAG · LangChain · LLMs
+  👁️ Face Recognition Attendance         OpenCV · Python
+  📰 Fake News Detection                 NLP · Scikit-learn
+  💬 Healthcare Chatbot                  Gemini · Streamlit
+  🚗 Car Price Prediction                Machine Learning
+
+------------------------------------------------------------------------
+
+::: {align="center"}
+### 🕷️ *"Every great AI project starts with a single commit."*
+
+`<img src="workflow.svg" width="100%"/>`{=html}
+:::
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 -------------------------------------------------------------------------------------------------------------
 
 <img src="banner_animated.svg">

@@ -104,7 +104,7 @@ Power Source:
 # 🕸️ Hero Stats
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=nikita17-n&theme=transparent&hide_border=true&ring=FF0000&fire=FF1A1A&currStreakLabel=FF0000&sideNums=FF3B3B&currStreakNum=FF0000&sideLabels=FFFFFF&dates=AAAAAA&stroke=FF0000"/>
+<img src="https://streak-stats.demolab.com?user=nikita17-n&theme=tokyonight&hide_border=true&ring=FF0000&fire=FF1A1A&currStreakLabel=FF0000&sideNums=FF3B3B&currStreakNum=FF0000&sideLabels=FFFFFF&dates=AAAAAA&stroke=FF0000"/>
 
 <br><br>
 

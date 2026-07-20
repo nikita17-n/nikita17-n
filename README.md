@@ -11,8 +11,8 @@
 <br>
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=E62429&center=true&vCenter=true&width=900&lines=AI+%7C+Machine+Learning+Engineer;Deep+Learning+Explorer;NLP+%7C+LLMs+%7C+RAG;Open+Source+Web+Slinger;Always+Learning+Something+New+🕷️" />
-</p>
+ <b> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=E62429&center=true&vCenter=true&width=900&lines=AI+%7C+Machine+Learning+Engineer;Deep+Learning+Explorer;NLP+%7C+LLMs+%7C+RAG;Open+Source+Web+Slinger;Always+Learning+Something+New+🕷️" />
+ </b></p>
 
 </div>
 

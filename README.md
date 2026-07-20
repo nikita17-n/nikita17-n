@@ -1,9 +1,7 @@
 -------------------------------------------------------------------------------------------------------------
 
 <img src="banner_animated.svg">
-
-#  < Hello, I'm Nikita Sharma />
-
+ 
 ### AI/ML Engineer • Open Source Explorer
 
 <p align="center">

@@ -88,4 +88,4 @@
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/nikita17-n/nikita17-n/output/galaga-contribution-graph.svg">
 
-<img src="Oscar Isaac Marvel GIF by Sony Pictures Animation.gif" width = 700>
+<img src="Oscar Isaac Marvel GIF by Sony Pictures Animation.gif">

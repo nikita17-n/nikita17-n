@@ -89,5 +89,5 @@
     srcset="https://raw.githubusercontent.com/nikita17-n/nikita17-n/output/galaga-contribution-graph.svg">
 </picture>
 <p align="center">
-  <img src="Spidy.gif" width="600" alt="Spider-Man">
+  <img src="Spidy.gif" width="1000" alt="Spider-Man">
 </p>

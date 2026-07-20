@@ -101,6 +101,7 @@ Power Source:
 ---
 
 # 🕸️ Hero Stats
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=nikita17-n&theme=tokyonight&hide_border=true"/>
 

@@ -8,8 +8,6 @@
 
 ### 🕸️ Swinging Through Code • Building Intelligent Systems • Saving Bugs One Commit at a Time
 
-<img src="Spidy.gif" width="850"/>
-
 <br>
 
 <p>
@@ -216,5 +214,5 @@ Power Source:
 
 
 <p align="center">
-  <img src="Spidy.gif" width="1000" alt="Spider-Man">
+  <img src="Spidy.gif" width="850" alt="Spider-Man">
 </p>

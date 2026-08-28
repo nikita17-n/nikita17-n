@@ -4,7 +4,7 @@
 
 # 🕸️ AI/ML Engineer 🕸️
 
-### 🕸️ Swinging Through Code • Building Intelligent Systems • Saving Bugs One Commit at a Time 🕸️
+### 🕸️ Swinging Through Code •  Building Intelligent Systems • Saving Bugs One Commit at a Time 🕸️
 
 <br>
 

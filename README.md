@@ -1,4 +1,4 @@
- <img src="banner_animated.svg">
+<img src="banner_animated.svg">
 
 <div align="center">
 

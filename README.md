@@ -119,12 +119,12 @@ Power Source:
 --- -->
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="Spidy.gif" width="900" height= 200 alt="Spider-Man">
-</p>
+</p> -->
 <!-- ----------------------------------- -->
 <p align="center">
   <a href="https://github.com/PramudithaN/git-tulkun">
-    <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/tulkun/tulkun.gif" width="640" alt="YOUR_USERNAME's git-tulkun" />
+    <img src="https://raw.githubusercontent.com/nikita17-n/nikita17-n/output/tulkun/tulkun.gif" width="640" alt="nikita17-n's git-tulkun" />
   </a>
 </p>

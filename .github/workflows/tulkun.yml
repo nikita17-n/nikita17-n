@@ -1,4 +1,4 @@
-name: Update Tulkun
+name: git-profile-tulkun
 
 on:
   schedule: [{ cron: "0 0 * * *" }]
@@ -12,4 +12,4 @@ jobs:
   tulkun:
     runs-on: ubuntu-latest
     steps:
-      - uses: PramudithaN/git-tulkun@v1
+      - uses: PramudithaN/git-tulkun@v1.2.0
